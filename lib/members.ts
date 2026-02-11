@@ -3,7 +3,7 @@ import { Member } from "@/types/member";
 export const members: Member[] = [
   {
     id: "aralie",
-    name: "Abigail Rachel Lie",
+    name: "Abigail Rachel",
     image: "/members/abigail_rachel.webp",
   },
   {
@@ -79,7 +79,7 @@ export const members: Member[] = [
   {
     id: "dena",
     name: "Danella Natalia",
-    image: "/members/chelsea_davina.webp",
+    image: "/members/dena_natalia.webp",
   },
   {
     id: "olla",
@@ -128,7 +128,7 @@ export const members: Member[] = [
   },
   {
     id: "greesel",
-    name: "Greesel Adhalia",
+    name: "Greesella Adhalia",
     image: "/members/greesel_adhalia.webp",
   },
   {
@@ -143,8 +143,8 @@ export const members: Member[] = [
   },
   {
     id: "indah",
-    name: "Indah Cahya Nabila",
-    image: "/members/indah_cahya_nabila.webp",
+    name: "Indah Cahya",
+    image: "/members/indah_cahya.webp",
   },
   {
     id: "Trisha",
@@ -253,7 +253,7 @@ export const members: Member[] = [
   },
   {
     id: "ekin",
-    name: "Jacqueline_Immanuela",
+    name: "Jacqueline Immanuela",
     image: "/members/Jacqueline_Immanuela.webp",
   },
   {
