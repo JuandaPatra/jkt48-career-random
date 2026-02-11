@@ -234,6 +234,62 @@ export const jobs: Job[] = [
 
   // ===== LIFESTYLE / EVERYDAY =====
   {
+  id: "magician",
+  label: "Pesulap",
+  category: "lifestyle",
+  visualHint: "magic_hat",        // ikon topi pesulap / tongkat sihir
+  image: "/jobs/magician.webp",
+  textTemplate:
+    "Dengan karisma dan ketepatannya, {member} akan jadi Pesulap yang memukau penonton dengan trik-trik elegan dan penuh kejutan."
+  },
+  {
+  id: "tarot_reader",
+  label: "Tarot Reader",
+  category: "lifestyle",
+  visualHint: "tarot_cards",      // ikon kartu tarot / kristal
+  image: "/jobs/tarot_reader.webp",
+  textTemplate:
+    "Intuisi tajam {member} membuatnya cocok jadi Tarot Reader yang mampu membaca energi dan memberi nasihat penuh makna."
+},
+{
+  id: "casual_runner",
+  label: "Pelari Kalcer",
+  category: "lifestyle",
+  visualHint: "running_shoes",    // ikon sepatu lari
+  image: "/jobs/casual_runner.webp",
+  textTemplate:
+    "Energi dan semangat {member} akan menjadikannya Pelari Kalcer yang selalu konsisten dan menginspirasi orang lain untuk bergerak."
+},
+{
+  id: "traveller",
+  label: "Traveller",
+  category: "lifestyle",
+  visualHint: "suitcase_plane",   // ikon koper + pesawat
+  image: "/jobs/traveller.webp",
+  textTemplate:
+    "Rasa ingin tahu tinggi {member} akan membawanya menjelajahi dunia sebagai Traveller yang penuh cerita dan pengalaman tak terlupakan."
+},
+{
+  id: "warteg_owner",
+  label: "Pemilik Warteg",
+  category: "lifestyle",
+  visualHint: "rice_plate",       // ikon piring nasi + lauk
+  image: "/jobs/warteg_owner.webp",
+  textTemplate:
+    "Keramahan dan kehangatan {member} akan membuat Wartegnya selalu ramai dan dicintai pelanggan."
+},
+{
+  id: "hairstylist",
+  label: "Hairstylist",
+  category: "lifestyle",
+  visualHint: "scissors_comb",    // ikon gunting + sisir
+  image: "/jobs/hairstylist.webp",
+  textTemplate:
+    "Selera estetika {member} akan menjadikannya Hairstylist yang mampu mengubah penampilan klien jadi lebih percaya diri."
+},
+
+
+  {
     id: "barista",
     label: "Barista",
     category: "lifestyle",
