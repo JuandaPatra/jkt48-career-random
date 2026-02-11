@@ -107,11 +107,6 @@ export const members: Member[] = [
     image: "/members/fritzy_rosmerian.webp",
   },
   {
-    id: "olla",
-    name: "Febriolla Sinambela",
-    image: "/members/febriolla_sinambela.webp",
-  },
-  {
     id: "ella",
     name: "Gabriella Abigail",
     image: "/members/gabriella_abigail.webp",
@@ -123,8 +118,8 @@ export const members: Member[] = [
   },
   {
     id: "gita",
-    name: "Gita Sekar Andarini",
-    image: "/members/gita_sekar_andarini.webp",
+    name: "Gita Sekar",
+    image: "/members/gita_sekar.webp",
   },
   {
     id: "gracie",
@@ -133,8 +128,8 @@ export const members: Member[] = [
   },
   {
     id: "greesel",
-    name: "Greesel Sophina Adhalia",
-    image: "/members/greesel_sophina_adhalia.webp",
+    name: "Greesel Adhalia",
+    image: "/members/greesel_adhalia.webp",
   },
   {
     id: "eli",
@@ -212,14 +207,9 @@ export const members: Member[] = [
     image: "/members/oline_manuel.webp",
   },
   {
-    id: "greesel",
-    name: "Greesel Sophina Adhalia",
-    image: "/members/greesel_sophina_adhalia.webp",
-  },
-  {
     id: "raisha",
-    name: "Raisha Syiva",
-    image: "/members/raisha_syiva.webp",
+    name: "Raisha Syifa",
+    image: "/members/raisha_syifa.webp",
   },
   {
     id: "ribka",
@@ -253,8 +243,8 @@ export const members: Member[] = [
   },
   {
     id: "gia",
-    name: "Hagia Sophia",
-    image: "/members/hagia_sophia.webp",
+    name: "Hagia Sopia",
+    image: "/members/hagia_sopia.webp",
   },
   {
     id: "maira",
@@ -263,8 +253,8 @@ export const members: Member[] = [
   },
   {
     id: "ekin",
-    name: "Jaqueline Immanuela",
-    image: "/members/jaqueline_immanuela.webp",
+    name: "Jacqueline_Immanuela",
+    image: "/members/Jacqueline_Immanuela.webp",
   },
   {
     id: "jemima",

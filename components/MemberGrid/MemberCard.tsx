@@ -24,7 +24,7 @@ export const MemberCard: React.FC<MemberCardProps> = ({
     <div
       onClick={() => !disabled && onSelect(member)}
       className={`
-        relative overflow-hidden rounded-xl h-75 aspect-[3/4] cursor-pointer transition-all duration-300
+        relative overflow-hidden rounded-xl h-[200px] aspect-[3/4] cursor-pointer transition-all duration-300
         group
         ${disabled ? "opacity-50 grayscale cursor-not-allowed" : "hover:scale-[1.02]"}
         ${isSelected ? "ring-4 ring-red-500 ring-offset-2 ring-offset-black scale-[1.02] shadow-[0_0_30px_rgba(239,68,68,0.4)]" : "border border-white/10"}
