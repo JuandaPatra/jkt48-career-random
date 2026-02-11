@@ -43,7 +43,7 @@ export const jobs: Job[] = [
     label: "Fotografer Street",
     category: "creative",
     visualHint: "dslr_camera",
-    image: "/jobs/street_photographer.webp",
+    image: "/jobs/photographer.webp",
     textTemplate:
       "{member} akan menangkap momen-momen tak terduga dengan gaya yang artistik dan berkarakter."
   },
@@ -215,7 +215,7 @@ export const jobs: Job[] = [
   },
   {
     id: "drone_pilot",
-    label: "Drone Pilot",
+    label: "Pilot Drone",
     category: "tech_business",
     visualHint: "drone_flying",
     image: "/jobs/drone_pilot.webp",
