@@ -64,7 +64,7 @@ export default function Home() {
             fullWidth
             className="shadow-2xl shadow-red-900/20 text-lg py-4"
           >
-            {selectedMember ? `Tentukan Nasib ${selectedMember.name} 🔮` : "Pilih Member Dulu 👆"}
+            {selectedMember ? `Tentukan Nasib ${selectedMember.id} 🔮` : "Pilih Member Dulu 👆"}
           </Button>
         </div>
       </div>

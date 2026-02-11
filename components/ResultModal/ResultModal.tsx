@@ -80,7 +80,7 @@ export const ResultModal: React.FC<ResultModalProps> = ({
             
             {/* Subtitle */}
             <p className="text-gray-300 font-medium">
-              <span className="font-bold text-white">{result.memberName} JKT48</span> ternyata cocok jadi:
+              <span className="font-bold text-white">{result.memberName} </span> ternyata cocok jadi:
             </p>
 
             {/* Job Title */}
