@@ -25,7 +25,7 @@ export const jobs: Job[] = [
     label: "YouTuber",
     category: "creative",
     visualHint: "youtube_play_button",
-    image: "/jobs/youtuber.webp",
+    image: "/jobs/youtuber.jpg",
     textTemplate:
       "Dengan kreativitasnya, {member} akan jadi YouTuber yang videonya selalu ditunggu-tunggu."
   },
@@ -70,7 +70,7 @@ export const jobs: Job[] = [
     label: "Motion Designer",
     category: "creative",
     visualHint: "after_effects_workspace",
-    image: "/jobs/motion_designer.webp",
+    image: "/jobs/motion_designer.jpg",
     textTemplate:
       "Animasi karya {member} akan hidup, dinamis, dan selalu memukau penonton."
   },
@@ -97,7 +97,7 @@ export const jobs: Job[] = [
     label: "Sound Engineer",
     category: "creative",
     visualHint: "audio_mixer_console",
-    image: "/jobs/sound_engineer.webp",
+    image: "/jobs/sound_engineer.jpg",
     textTemplate:
       "{member} akan memastikan setiap nada terdengar sempurna di studio maupun panggung."
   },
@@ -126,7 +126,7 @@ export const jobs: Job[] = [
     label: "Vocal Coach",
     category: "entertainment",
     visualHint: "microphone_studio",
-    image: "/jobs/vocal_coach.webp",
+    image: "/jobs/vocal_coach.jpg",
     textTemplate:
       "{member} akan melatih suara dengan teknik yang presisi dan penuh kesabaran."
   },
@@ -135,7 +135,7 @@ export const jobs: Job[] = [
     label: "Stage Director",
     category: "entertainment",
     visualHint: "stage_control_room",
-    image: "/jobs/stage_director.webp",
+    image: "/jobs/stage_director.jpg",
     textTemplate:
       "{member} akan mengatur setiap detail panggung dengan visi artistik yang kuat."
   },
@@ -144,7 +144,7 @@ export const jobs: Job[] = [
     label: "Talent Agency Scout",
     category: "entertainment",
     visualHint: "casting_notebook",
-    image: "/jobs/talent_scout.webp",
+    image: "/jobs/talent_scout.jpg",
     textTemplate:
       "{member} punya insting tajam untuk menemukan bakat baru yang bersinar."
   },
@@ -191,7 +191,7 @@ export const jobs: Job[] = [
     label: "Esports Player",
     category: "tech_business",
     visualHint: "gaming_arena",
-    image: "/jobs/esports_player.webp",
+    image: "/jobs/esports_player.jpg",
     textTemplate:
       "Refleks cepat dan fokus tinggi membuat {member} cocok jadi Esports Player."
   },
@@ -209,7 +209,7 @@ export const jobs: Job[] = [
     label: "CEO",
     category: "tech_business",
     visualHint: "executive_office",
-    image: "/jobs/ceo.webp",
+    image: "/jobs/ceo.jpg",
     textTemplate:
       "Karisma dan ketegasan {member} membuatnya cocok jadi CEO visioner."
   },
@@ -312,7 +312,7 @@ export const jobs: Job[] = [
     label: "Ibu Rumah Tangga",
     category: "lifestyle",
     visualHint: "home_kitchen",
-    image: "/jobs/housewife.webp",
+    image: "/jobs/housewife.jpg",
     textTemplate:
       "{member} akan jadi Ibu Rumah Tangga yang hangat, telaten, dan penuh kasih."
   },
@@ -323,7 +323,7 @@ export const jobs: Job[] = [
     label: "ASN",
     category: "public_service",
     visualHint: "government_office",
-    image: "/jobs/asn.webp",
+    image: "/jobs/asn.jpg",
     textTemplate:
       "{member} akan jadi ASN yang disiplin, profesional, dan melayani masyarakat dengan baik."
   },
