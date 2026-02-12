@@ -61,7 +61,7 @@ export const jobs: Job[] = [
     label: "Graphic Designer",
     category: "creative",
     visualHint: "design_tablet",
-    image: "/jobs/graphic_designer.webp",
+    image: "/jobs/graphic_designer.jpg",
     textTemplate:
       "Dengan selera visual yang kuat, {member} akan menciptakan desain yang ikonik dan estetik."
   },

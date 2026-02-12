@@ -249,7 +249,7 @@ export const members: Member[] = [
   {
     id: "maira",
     name: "Humaira Ramadhani",
-    image: "/members/humaira_ramadhani.webp",
+    image: "/members/Humaira_Ramadhani.webp",
   },
   {
     id: "ekin",
@@ -259,7 +259,7 @@ export const members: Member[] = [
   {
     id: "jemima",
     name: "Jemima Evodie",
-    image: "/members/jemima_evodie.webp",
+    image: "/members/Jemima_Evodie.webp",
   },
   {
     id: "mikaela",

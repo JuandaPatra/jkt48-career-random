@@ -40,7 +40,7 @@ export default function Home() {
       {/* Header */}
       <header className="text-center mb-8 space-y-2">
         <h1 className="text-3xl md:text-5xl font-black tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-pink-500 to-red-500 drop-shadow-sm font-[family-name:var(--font-outfit)]">
-          JKT48 CAREER DESTINY
+          #ANDAIKUBUKANIDOLA
         </h1>
         <p className="text-gray-400 text-sm md:text-base max-w-md mx-auto">
           Pilih member favoritmu dan lihat takdir profesi apa yang cocok untuknya!
