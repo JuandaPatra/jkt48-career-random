@@ -153,7 +153,7 @@ export const jobs: Job[] = [
     label: "MC / Presenter",
     category: "entertainment",
     visualHint: "handheld_mic_stage",
-    image: "/jobs/mc_presenter.webp",
+    image: "/jobs/mc_presenter.jpg",
     textTemplate:
       "Dengan karismanya, {member} akan jadi MC yang luwes dan menghidupkan suasana."
   },
@@ -218,7 +218,7 @@ export const jobs: Job[] = [
     label: "Pilot Drone",
     category: "tech_business",
     visualHint: "drone_flying",
-    image: "/jobs/drone_pilot.webp",
+    image: "/jobs/drone_pilot.jpg",
     textTemplate:
       "Ketelitian {member} akan membuatnya jadi Pilot Drone yang handal."
   },
@@ -227,7 +227,7 @@ export const jobs: Job[] = [
     label: "Mechanic",
     category: "tech_business",
     visualHint: "car_repair_garage",
-    image: "/jobs/mechanic.webp",
+    image: "/jobs/mechanic.jpg",
     textTemplate:
       "{member} akan jadi Mekanik yang teliti dan cekatan memperbaiki mesin."
   },
@@ -238,7 +238,7 @@ export const jobs: Job[] = [
   label: "Pesulap",
   category: "lifestyle",
   visualHint: "magic_hat",        // ikon topi pesulap / tongkat sihir
-  image: "/jobs/magician.webp",
+  image: "/jobs/magician.jpg",
   textTemplate:
     "Dengan karisma dan ketepatannya, {member} akan jadi Pesulap yang memukau penonton dengan trik-trik elegan dan penuh kejutan."
   },
@@ -247,7 +247,7 @@ export const jobs: Job[] = [
   label: "Tarot Reader",
   category: "lifestyle",
   visualHint: "tarot_cards",      // ikon kartu tarot / kristal
-  image: "/jobs/tarot_reader.webp",
+  image: "/jobs/tarot_reader.jpg",
   textTemplate:
     "Intuisi tajam {member} membuatnya cocok jadi Tarot Reader yang mampu membaca energi dan memberi nasihat penuh makna."
 },
@@ -256,7 +256,7 @@ export const jobs: Job[] = [
   label: "Pelari Kalcer",
   category: "lifestyle",
   visualHint: "running_shoes",    // ikon sepatu lari
-  image: "/jobs/casual_runner.webp",
+  image: "/jobs/casual_runner.jpg",
   textTemplate:
     "Energi dan semangat {member} akan menjadikannya Pelari Kalcer yang selalu konsisten dan menginspirasi orang lain untuk bergerak."
 },
@@ -265,7 +265,7 @@ export const jobs: Job[] = [
   label: "Traveller",
   category: "lifestyle",
   visualHint: "suitcase_plane",   // ikon koper + pesawat
-  image: "/jobs/traveller.webp",
+  image: "/jobs/traveller.jpg",
   textTemplate:
     "Rasa ingin tahu tinggi {member} akan membawanya menjelajahi dunia sebagai Traveller yang penuh cerita dan pengalaman tak terlupakan."
 },
@@ -283,7 +283,7 @@ export const jobs: Job[] = [
   label: "Hairstylist",
   category: "lifestyle",
   visualHint: "scissors_comb",    // ikon gunting + sisir
-  image: "/jobs/hairstylist.webp",
+  image: "/jobs/hairstylist.jpg",
   textTemplate:
     "Selera estetika {member} akan menjadikannya Hairstylist yang mampu mengubah penampilan klien jadi lebih percaya diri."
 },
@@ -294,7 +294,7 @@ export const jobs: Job[] = [
     label: "Barista",
     category: "lifestyle",
     visualHint: "latte_art",
-    image: "/jobs/barista.webp",
+    image: "/jobs/barista.jpg",
     textTemplate:
       "{member} akan jadi Barista yang piawai membuat kopi cantik dan enak."
   },
@@ -303,7 +303,7 @@ export const jobs: Job[] = [
     label: "Baker",
     category: "lifestyle",
     visualHint: "bakery_oven",
-    image: "/jobs/baker.webp",
+    image: "/jobs/baker.jpg",
     textTemplate:
       "Dengan ketelitiannya, {member} akan membuat roti dan kue yang sempurna."
   },
@@ -332,7 +332,7 @@ export const jobs: Job[] = [
     label: "Dokter",
     category: "public_service",
     visualHint: "stethoscope_hospital",
-    image: "/jobs/doctor.webp",
+    image: "/jobs/doctor.jpg",
     textTemplate:
       "Dengan kecerdasannya di atas panggung, {member} akan jadi dokter yang tenang, teliti, dan selalu menenangkan pasiennya."
   },
@@ -341,7 +341,7 @@ export const jobs: Job[] = [
     label: "Perawat",
     category: "public_service",
     visualHint: "hospital_care",
-    image: "/jobs/nurse.webp",
+    image: "/jobs/nurse.jpg",
     textTemplate:
       "{member} akan jadi perawat yang penuh empati dan sangat peduli pada pasien."
   },
@@ -350,7 +350,7 @@ export const jobs: Job[] = [
     label: "Polisi",
     category: "public_service",
     visualHint: "police_badge",
-    image: "/jobs/police.webp",
+    image: "/jobs/police.jpg",
     textTemplate:
       "Disiplin dan karismatik, {member} akan jadi polisi yang adil dan dihormati."
   },
@@ -359,7 +359,7 @@ export const jobs: Job[] = [
     label: "Tentara",
     category: "public_service",
     visualHint: "military_uniform",
-    image: "/jobs/soldier.webp",
+    image: "/jobs/soldier.jpg",
     textTemplate:
       "Berani dan tangguh, {member} akan jadi tentara yang melindungi negeri."
   },
@@ -368,7 +368,7 @@ export const jobs: Job[] = [
     label: "Guru",
     category: "public_service",
     visualHint: "classroom_blackboard",
-    image: "/jobs/teacher.webp",
+    image: "/jobs/teacher.jpg",
     textTemplate:
       "{member} akan jadi guru yang inspiratif dan disukai murid-muridnya."
   },
@@ -377,7 +377,7 @@ export const jobs: Job[] = [
     label: "Hakim",
     category: "public_service",
     visualHint: "court_gavel",
-    image: "/jobs/judge.webp",
+    image: "/jobs/judge.jpg",
     textTemplate:
       "Dengan integritas tinggi, {member} akan jadi hakim yang adil."
   },
@@ -386,7 +386,7 @@ export const jobs: Job[] = [
     label: "Jaksa",
     category: "public_service",
     visualHint: "courtroom_documents",
-    image: "/jobs/prosecutor.webp",
+    image: "/jobs/prosecutor.jpg",
     textTemplate:
       "{member} akan jadi jaksa yang tegas dan cerdas dalam menegakkan keadilan."
   },
@@ -395,7 +395,7 @@ export const jobs: Job[] = [
     label: "Arsitek",
     category: "public_service",
     visualHint: "architect_blueprint",
-    image: "/jobs/architect.webp",
+    image: "/jobs/architect.jpg",
     textTemplate:
       "Visi artistik {member} akan melahirkan bangunan yang indah dan fungsional."
   },
@@ -404,7 +404,7 @@ export const jobs: Job[] = [
     label: "Insinyur",
     category: "public_service",
     visualHint: "engineering_blueprint",
-    image: "/jobs/engineer.webp",
+    image: "/jobs/engineer.jpg",
     textTemplate:
       "Logika kuat {member} akan membuatnya jadi insinyur yang brilian."
   },
@@ -413,7 +413,7 @@ export const jobs: Job[] = [
     label: "Pilot",
     category: "public_service",
     visualHint: "cockpit_view",
-    image: "/jobs/pilot.webp",
+    image: "/jobs/pilot.jpg",
     textTemplate:
       "{member} akan menerbangkan pesawat dengan tenang, aman, dan profesional."
   },
@@ -424,7 +424,7 @@ export const jobs: Job[] = [
     label: "Agen Mata-Mata",
     category: "fun_gamey",
     visualHint: "spy_silhouette",
-    image: "/jobs/spy_agent.webp",
+    image: "/jobs/spy_agent.jpg",
     textTemplate:
       "{member} akan jadi agen mata-mata yang gesit, cerdas, dan tak terdeteksi."
   },
@@ -433,7 +433,7 @@ export const jobs: Job[] = [
     label: "Time Traveler",
     category: "fun_gamey",
     visualHint: "time_machine_glow",
-    image: "/jobs/time_traveler.webp",
+    image: "/jobs/time_traveler.jpg",
     textTemplate:
       "{member} akan menjelajah lintas waktu dan mengubah sejarah."
   },
