@@ -442,7 +442,7 @@ export const jobs: Job[] = [
     label: "Zombie Apocalypse Survivor",
     category: "fun_gamey",
     visualHint: "post_apocalypse_city",
-    image: "/jobs/zombie_survivor.webp",
+    image: "/jobs/zombie_survivor.jpg",
     textTemplate:
       "Dengan insting bertahan hidupnya, {member} akan selamat di dunia pasca-zombie."
   },
@@ -451,7 +451,7 @@ export const jobs: Job[] = [
     label: "NPC",
     category: "fun_gamey",
     visualHint: "game_character_idle",
-    image: "/jobs/npc.webp",
+    image: "/jobs/npc.jpg",
     textTemplate:
       "{member} akan jadi NPC ikonik yang selalu diingat pemain."
   },
@@ -460,7 +460,7 @@ export const jobs: Job[] = [
     label: "Professional Overthinker",
     category: "fun_gamey",
     visualHint: "mind_map_chaos",
-    image: "/jobs/overthinker.webp",
+    image: "/jobs/overthinker.jpg",
     textTemplate:
       "{member} akan memikirkan segalanya… bahkan hal yang belum terjadi."
   },
@@ -469,7 +469,7 @@ export const jobs: Job[] = [
     label: "Tukang Yapping",
     category: "fun_gamey",
     visualHint: "speech_bubble_storm",
-    image: "/jobs/yapper.webp",
+    image: "/jobs/yapper.jpg",
     textTemplate:
       "{member} akan selalu punya cerita untuk diceritakan tanpa henti."
   },
@@ -478,7 +478,7 @@ export const jobs: Job[] = [
     label: "Wota",
     category: "fan_culture",
     visualHint: "idol_lightstick",
-    image: "/jobs/wota.webp",
+    image: "/jobs/wota.jpg",
     textTemplate:
       "{member} akan jadi Wota setia yang selalu mendukung idolanya."
   },
@@ -487,7 +487,7 @@ export const jobs: Job[] = [
     label: "Wibu",
     category: "fan_culture",
     visualHint: "anime_room_setup",
-    image: "/jobs/wibu.webp",
+    image: "/jobs/wibu.jpg",
     textTemplate:
       "{member} akan jadi Wibu sejati dengan koleksi anime yang mengesankan."
   }
