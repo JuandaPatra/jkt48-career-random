@@ -53,7 +53,7 @@ export const members: Member[] = [
   },
     {
     id: "elin",
-    name: "Celine Thefani",
+    name: "Celline Thefani",
     image: "/members/celine_thefani.webp",
   },
     {
@@ -78,12 +78,12 @@ export const members: Member[] = [
   },
   {
     id: "dena",
-    name: "Danella Natalia",
+    name: "Dena Natalia",
     image: "/members/dena_natalia.webp",
   },
   {
     id: "olla",
-    name: "Febriolla Sinambela",
+    name: "Febriola Sinambela",
     image: "/members/febriolla_sinambela.webp",
   },
   {
@@ -93,7 +93,7 @@ export const members: Member[] = [
   },
   {
     id: "fiony",
-    name: "Fiony Alveria Tantri",
+    name: "Fiony Alveria",
     image: "/members/fiony_alveria_tantri.webp",
   },
   {
@@ -108,12 +108,12 @@ export const members: Member[] = [
   },
   {
     id: "ella",
-    name: "Gabriella Abigail",
+    name: "Gabriela Abigail",
     image: "/members/gabriella_abigail.webp",
   },
   {
     id: "gendis",
-    name: "Gendis Mayranissa",
+    name: "Gendis Mayrannisa",
     image: "/members/gendis_mayranissa.webp",
   },
   {
@@ -147,7 +147,7 @@ export const members: Member[] = [
     image: "/members/indah_cahya.webp",
   },
   {
-    id: "Trisha",
+    id: "trisha",
     name: "Jazzlyn Trisha",
     image: "/members/jazlyn_trisha.webp",
   },
@@ -188,7 +188,7 @@ export const members: Member[] = [
   },
   {
     id: "muthe",
-    name: "Muthiara Azzahra",
+    name: "Mutiara Azzahra",
     image: "/members/muthiara_azzahra.webp",
   },
   {
