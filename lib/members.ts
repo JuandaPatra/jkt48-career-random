@@ -229,22 +229,22 @@ export const members: Member[] = [
   {
     id: "virgi",
     name: "Astrella Virgiananda",
-    image: "/members/astrella_virgiananda.webp",
+    image: "/members/Astrella_Virgiananda.webp",
   },
   {
     id: "auwia",
     name: "Aulia Riza",
-    image: "/members/aulia_riza.webp",
+    image: "/members/Aulia_Riza.webp",
   },
   {
     id: "rilly",
     name: "Bong Aprilli",
-    image: "/members/bong_aprilli.webp",
+    image: "/members/Bong_Aprilli.webp",
   },
   {
     id: "gia",
     name: "Hagia Sopia",
-    image: "/members/hagia_sopia.webp",
+    image: "/members/Hagia_Sopia.webp",
   },
   {
     id: "maira",
