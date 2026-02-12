@@ -222,7 +222,7 @@ export const members: Member[] = [
     image: "/members/shabilqis_naila.webp",
   },
   {
-    id: "kimi",
+    id: "kimmy",
     name: "Victoria Kimberly",
     image: "/members/victoria_kimberly.webp",
   },
