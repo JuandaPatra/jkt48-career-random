@@ -9,6 +9,7 @@ import { members } from "@/lib/members";
 import { useRandomJob } from "@/hooks/useRandomJob";
 import { Member } from "@/types/member";
 import Image from "next/image";
+import capitalize from "@/helpers/Capitalize";
 
 export default function Home() {
   const [selectedMember, setSelectedMember] = useState<Member | null>(null);
@@ -64,7 +65,7 @@ export default function Home() {
             fullWidth
             className="shadow-2xl shadow-red-900/20 text-lg py-4"
           >
-            {selectedMember ? `Tentukan Nasib ${selectedMember.id} 🔮` : "Pilih Member Dulu 👆"}
+            {selectedMember ? `Tentukan Nasib ${capitalize(selectedMember.id)} 🔮` : "Pilih Member Dulu 👆"}
           </Button>
         </div>
       </div>
